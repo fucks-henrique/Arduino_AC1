@@ -18,7 +18,7 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 - Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
 - Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
-- a Eduarda conseguir editar o trabalho 
+- a Eduarda conseguir editar
 ### Composição da nota do grupo
 - Ajuste dos erros no código principal.
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
